@@ -1,4 +1,4 @@
-# Data Analysis: Statistic Crime Analisys
+# Data Analysis: Statistic Crime Analysis
 * El objetivo del projecto es la limpieza de datos, la realizacion de un analisis estadistico mediante metricas obtenidas y visualizaciones usando distintas librerias dentro de Python como tambien el posterior traslado a Tableau donde estan los gráficos definitivos.
 * El cvs se encuentra en la pagina oficial de BA Data: https://data.buenosaires.gob.ar/dataset/
 * Se hizo uso de varias funciones de usuarios para optimizar el codigo tanto de limpieza como de exploracion y a su vez reducir el uso de memoria. 
