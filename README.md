@@ -8,7 +8,9 @@
 
 ## Version de Python y caracteristicas varias
 **Python Version:** 3.7 +
+
 **Packages:** Pandas, Numpy, Math, Matplotlib, Seaborn, SciPy, Prrint
+
 **Enviroment:** Jupyter Lab
 
 
