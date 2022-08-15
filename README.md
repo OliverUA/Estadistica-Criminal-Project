@@ -1,9 +1,10 @@
 # Data Analysis: Statistic Crime Analysis
-* El objetivo del projecto es la limpieza de datos, la realizacion de un analisis estadistico mediante metricas obtenidas y visualizaciones usando distintas librerias dentro de Python como tambien el posterior traslado a Tableau donde estan los gráficos definitivos.
-* El cvs se encuentra en la pagina oficial de BA Data: https://data.buenosaires.gob.ar/dataset/
-* Se hizo uso de varias funciones de usuarios para optimizar el codigo tanto de limpieza como de exploracion y a su vez reducir el uso de memoria. 
-* Se realizaron, a su vez, funcones de usuario para llevar a cabo un analisis estadisitico de las distintas varaibles, permitiendo la optimizacion y automatizacion de codigo para determinar desviacion estandar, cuartiles, media, modo, promedio, tipo de distribucion, entre otras metricas estadísticas.
-* Posterior a la limpieza y analisis de llevo a cabo un projecto de visualizacion ejectuado en Tableau.
+
+* The objective of the project is data cleaning, statistical analysis through obtained metrics, and visualizations using different libraries within Python as well as the subsequent transfer to Tableau where the final graphs are.
+* The cvs can be found on the official BA Data page: https://data.buenosaires.gob.ar/dataset/
+* The implementation of various user functions where used to optimize the code for both cleanup and scanning while reducing memory usage.
+* On the other hand, user functions were performed to carry out a statistical analysis on the different variables, allowing the optimization and automation of code to determine: standard deviation, quartiles, mean, mode, average, type of distribution, among other statistical metrics.
+* After the cleaning and analysis, the visualization step of the project was carried out in Tableau: https://public.tableau.com/app/profile/oliver.tomas/viz/DelitosCABA-CiudadAutnomadeBuenosAires/Dashboard2
 
 ## Version de Python y caracteristicas varias
 **Python Version:** 3.7 +
